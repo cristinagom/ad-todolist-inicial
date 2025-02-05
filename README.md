@@ -1,6 +1,6 @@
 # Aplicación inicial ToDoList
 
-Aplicación ToDoList de la asignatura [MADS](https://cvnet.cpd.ua.es/Guia-Docente/GuiaDocente/Index?wcodest=C203&wcodasi=34037&wlengua=es&scaca=2019-20) usando Spring Boot y plantillas Thymeleaf.
+Aplicación ToDoList para la asignatura de Acceso a Datos usando Spring Boot y plantillas Thymeleaf. Este repositorio se ha creado gracias al template repository del excelente profesor Domingo Gallardo de la Universidad de Alicante para la asignatura de [MADS](https://github.com/domingogallardo/mads-todolist-inicial).
 
 ## Requisitos
 
